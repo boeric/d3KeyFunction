@@ -3,4 +3,4 @@ The script demonstrates the use of a key function when binding data to a D3 sele
 
 A div on the right shows the **current content** of the data structure. A div at the bottom shows the **source code** that is about to be executed (using a bit of code introspection). 
 
-For **bl.ocks.org** users, the script should be viewed in its own window. [Link](http://bl.ocks.org/boeric/raw/8b34abda1d33b983b09b/)
+For **bl.ocks.org** users, the script should be viewed in its own window. See the script in action [here](http://bl.ocks.org/boeric/raw/8b34abda1d33b983b09b/)
